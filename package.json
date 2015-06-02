@@ -1,0 +1,26 @@
+{
+  "name": "elb",
+  "version": "0.0.1",
+  "description": "Analyse AWS ELB logs",
+  "main": "index.js",
+  "_scripts": {
+    "test": "node test/selenium/tests.js"
+  },
+  "repository": {
+
+    "type": "git",
+    "url": "git://github.com/gjn/ffive"
+  },
+  "author": {
+    "name": "Gilbert Jeiziner",
+    "email": "gjn@space.ch"
+  },
+  "readmeFileName": "README.md",
+  "dependencies": {
+    "moment": "2.10.3",
+    "commander": "2.8.1",
+    "underscore": "1.8.3"
+  },
+  "licence": "MIT"
+}
+
